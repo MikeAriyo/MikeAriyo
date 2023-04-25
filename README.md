@@ -1,5 +1,5 @@
 ### Hi, 
-I am the proud owner of an overactive and curious mind. 
+I am the proud owner of an active and curious mind. 
 Building user-centric products, making lives better and easier, through tech.
 
 - 🌱 Software Engineer - JavaScript, React, TypeScript, (MERN) 
