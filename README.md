@@ -1,5 +1,5 @@
-- 🌱 Software Engineer - JavaScript, React, TypeScript, (MERN) 
-- 💬 Improving at - Algorithms, Systems Design
+- Software Engineer, Frontend - JavaScript, React, React Native, TypeScript
+- [also interested in] - Algorithms, Systems Design and Architecture.
 - 📫 How to reach me: 
     - [LinkedIn](https://www.linkedin.com/in/ariyo-adekola-micheal-bb9588177/)
     - [Twitter](https://twitter.com/ariy_o)
